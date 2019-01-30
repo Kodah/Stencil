@@ -2,4 +2,3 @@
 .build/
 Packages/
 Package.pins
-*.xcodeproj
