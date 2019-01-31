@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "8c40e4d446f82ce895daff1791754d8d"
+build_time: [1548974394, 389399000]
+inputs:
+  "/Users/tsu06/Documents/Repos/Stencil/.build/checkouts/PathKit.git--6857383374047352616/Sources/PathKit.swift": [1548870320, 0]

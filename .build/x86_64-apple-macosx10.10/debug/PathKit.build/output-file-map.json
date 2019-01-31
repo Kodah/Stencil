@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/PathKit.build/master.swiftdeps"
+  },
+  "/Users/tsu06/Documents/Repos/Stencil/.build/checkouts/PathKit.git--6857383374047352616/Sources/PathKit.swift": {
+    "dependencies": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/PathKit.build/PathKit.d",
+    "object": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/PathKit.build/PathKit.swift.o",
+    "swiftmodule": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/PathKit.build/PathKit~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/PathKit.build/PathKit.swiftdeps"
+  }
+}

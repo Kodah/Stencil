@@ -1,0 +1,59 @@
+{
+  "": {
+    "swift-dependencies": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/master.swiftdeps"
+  },
+  "/Users/tsu06/Documents/Repos/Stencil/.build/checkouts/Spectre.git--907213048945393889/Sources/Spectre/Case.swift": {
+    "dependencies": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/Case.d",
+    "object": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/Case.swift.o",
+    "swiftmodule": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/Case~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/Case.swiftdeps"
+  },
+  "/Users/tsu06/Documents/Repos/Stencil/.build/checkouts/Spectre.git--907213048945393889/Sources/Spectre/Context.swift": {
+    "dependencies": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/Context.d",
+    "object": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/Context.swift.o",
+    "swiftmodule": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/Context~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/Context.swiftdeps"
+  },
+  "/Users/tsu06/Documents/Repos/Stencil/.build/checkouts/Spectre.git--907213048945393889/Sources/Spectre/Expectation.swift": {
+    "dependencies": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/Expectation.d",
+    "object": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/Expectation.swift.o",
+    "swiftmodule": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/Expectation~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/Expectation.swiftdeps"
+  },
+  "/Users/tsu06/Documents/Repos/Stencil/.build/checkouts/Spectre.git--907213048945393889/Sources/Spectre/Failure.swift": {
+    "dependencies": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/Failure.d",
+    "object": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/Failure.swift.o",
+    "swiftmodule": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/Failure~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/Failure.swiftdeps"
+  },
+  "/Users/tsu06/Documents/Repos/Stencil/.build/checkouts/Spectre.git--907213048945393889/Sources/Spectre/Global.swift": {
+    "dependencies": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/Global.d",
+    "object": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/Global.swift.o",
+    "swiftmodule": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/Global~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/Global.swiftdeps"
+  },
+  "/Users/tsu06/Documents/Repos/Stencil/.build/checkouts/Spectre.git--907213048945393889/Sources/Spectre/GlobalContext.swift": {
+    "dependencies": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/GlobalContext.d",
+    "object": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/GlobalContext.swift.o",
+    "swiftmodule": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/GlobalContext~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/GlobalContext.swiftdeps"
+  },
+  "/Users/tsu06/Documents/Repos/Stencil/.build/checkouts/Spectre.git--907213048945393889/Sources/Spectre/Reporter.swift": {
+    "dependencies": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/Reporter.d",
+    "object": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/Reporter.swift.o",
+    "swiftmodule": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/Reporter~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/Reporter.swiftdeps"
+  },
+  "/Users/tsu06/Documents/Repos/Stencil/.build/checkouts/Spectre.git--907213048945393889/Sources/Spectre/Reporters.swift": {
+    "dependencies": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/Reporters.d",
+    "object": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/Reporters.swift.o",
+    "swiftmodule": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/Reporters~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/Reporters.swiftdeps"
+  },
+  "/Users/tsu06/Documents/Repos/Stencil/.build/checkouts/Spectre.git--907213048945393889/Sources/Spectre/XCTest.swift": {
+    "dependencies": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/XCTest.d",
+    "object": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/XCTest.swift.o",
+    "swiftmodule": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/XCTest~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsu06/Documents/Repos/Stencil/.build/x86_64-apple-macosx10.10/debug/Spectre.build/XCTest.swiftdeps"
+  }
+}

@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "e478536f0780411d58336f27a9cf7610"
+build_time: [1548974394, 389459000]
+inputs:
+  "/Users/tsu06/Documents/Repos/Stencil/.build/checkouts/Spectre.git--907213048945393889/Sources/Spectre/Case.swift": [1548870319, 0]
+  "/Users/tsu06/Documents/Repos/Stencil/.build/checkouts/Spectre.git--907213048945393889/Sources/Spectre/Context.swift": [1548870319, 0]
+  "/Users/tsu06/Documents/Repos/Stencil/.build/checkouts/Spectre.git--907213048945393889/Sources/Spectre/Expectation.swift": [1548870319, 0]
+  "/Users/tsu06/Documents/Repos/Stencil/.build/checkouts/Spectre.git--907213048945393889/Sources/Spectre/Failure.swift": [1548870319, 0]
+  "/Users/tsu06/Documents/Repos/Stencil/.build/checkouts/Spectre.git--907213048945393889/Sources/Spectre/Global.swift": [1548870319, 0]
+  "/Users/tsu06/Documents/Repos/Stencil/.build/checkouts/Spectre.git--907213048945393889/Sources/Spectre/GlobalContext.swift": [1548870319, 0]
+  "/Users/tsu06/Documents/Repos/Stencil/.build/checkouts/Spectre.git--907213048945393889/Sources/Spectre/Reporter.swift": [1548870319, 0]
+  "/Users/tsu06/Documents/Repos/Stencil/.build/checkouts/Spectre.git--907213048945393889/Sources/Spectre/Reporters.swift": [1548870319, 0]
+  "/Users/tsu06/Documents/Repos/Stencil/.build/checkouts/Spectre.git--907213048945393889/Sources/Spectre/XCTest.swift": [1548870319, 0]

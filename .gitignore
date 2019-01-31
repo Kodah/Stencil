@@ -1,4 +1,5 @@
 .conche/
-.build/
-Packages/
-Package.pins
+.build/checkouts
+.build/repositories
+
+
